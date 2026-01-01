@@ -18,7 +18,7 @@
 <b>Python </b>
 
   <h2> Certifications </h2>
-  <b>  Comptia Network+,  Comptia Security+ </b>
+  <a href="https://github.com">Comptia Network+</a>
 
 
 
