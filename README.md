@@ -18,7 +18,10 @@
 <b>Python </b>
 
   <h2> Certifications </h2>
-  <a href="https://[https://www.credly.com/badges/9413e50f-fda0-4f6a-b676-1d711594fa1f/linked_in_profile)"]>Comptia Network+</a>
+  <a href="https://www.credly.com/badges/9413e50f-fda0-4f6a-b676-1d711594fa1f/linked_in_profile">
+CompTIA Network+
+</a>
+
 
 
 
