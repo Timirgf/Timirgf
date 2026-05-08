@@ -1,4 +1,4 @@
-<h1>Hi, I'm Timi! <br/><a href="https://[github.com/joshmadakor1](https://github.com/Timirgf/Timirgf/edit/main/README.md)">Programmer</a>, <a href="https://www.linkedin.com/in/olutimi-dara644343/">Cybersecurity Professional</a>
+<h1>Hi, I'm Timi! <br/><a href="https://[github.com/joshmadakor1](https://github.com/Timirgf/Timirgf/edit/main/README.md)">Network engineer</a>, <a href="https://www.linkedin.com/in/olutimi-dara644343/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2> 
 
