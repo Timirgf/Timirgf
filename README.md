@@ -9,6 +9,15 @@
 <h2>👨‍💻 Networking Labs </h2>
 <a href="https://github.com/Timirgf/Network-security-labs">
 VLANS
+
+<h2>Python Projects</h2>
+
+<a href="https://github.com/Timirgf/port-alert-scanner" target="_blank">
+  Port Alert Scanner
+</a>
+
+
+  
   <h2> Certifications </h2>
  <a href="https://www.credly.com/badges/9413e50f-fda0-4f6a-b676-1d711594fa1f/linked_in_profile">
 CompTIA Network+
