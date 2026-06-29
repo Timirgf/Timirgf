@@ -1,8 +1,11 @@
+```html
 <h1>
   Hi, I'm Timi! <br/>
-  <a href="(https://www.linkedin.com/in/timiodaramola/)">Network Engineer</a>,
-  <a href="(https://www.linkedin.com/in/timiodaramola/)">Cybersecurity Professional</a>
+  <a href="https://www.linkedin.com/in/timiodaramola/" target="_blank">Network Engineer</a>,
+  <a href="https://www.linkedin.com/in/timiodaramola/" target="_blank">Cybersecurity Professional</a>
 </h1>
+```
+
 
 <h2>👨‍💻 Networking Labs </h2>
 <a href="https://github.com/Timirgf/Network-security-labs">
