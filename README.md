@@ -11,13 +11,17 @@
 VLANS
 
 <h2>Python Projects</h2>
-
+<p>
 <a href="https://github.com/Timirgf/port-alert-scanner" target="_blank">
-  Port Alert Scanner
-  href="[https://github.com/Timirgf/home-network-discovery-tool]" target="_blank">
-  Network discovery tool
+  Port Alert Scanner 
+</a>
+</p>
   
 </a>
+
+<a href="https://github.com/Timirgf/home-network-discovery-tool" target="_blank">
+  Network discovery tool 
+</a> 
 
 
   
